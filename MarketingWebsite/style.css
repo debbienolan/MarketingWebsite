@@ -1,0 +1,107 @@
+﻿header div{height:67px;
+}
+#logo{
+    background: #4fb1a2 url(../images/logo_header.png) center no-repeat content-box;
+
+}
+.tuscanyMap {
+    background:  #4fb1a2 url('images/tuscanyMap.png')  center no-repeat;
+}
+
+ div.container-fluid{
+      padding-left:0;
+      padding-right:0;
+  }
+.container-fluid{
+    text-align:center;
+    font-family: 'Cantarell', sans-serif;
+}
+div h1 {
+    font-size: 22px;
+}
+div h2{    
+     font-size:18px;
+}
+.img-responsive{
+    background-size:100%;
+}
+div.mainImage {
+    background: #4fb1a2 url('images/Ruined-Shed-000058236200.jpg') center no-repeat;
+    background-size:cover;
+}
+div.promoArea{
+    min-height:350px;
+}
+div.square {
+
+}
+.verticle-center{
+   min-height: 350px; 
+  display:flex;
+  align-items: center;
+}
+.overlay {
+    margin:0 auto;
+    padding:20px;
+    background: #434647;
+    color: #fff;
+    opacity:.8;
+}
+div.pic {
+    font-family: 'Cantarell', sans-serif;
+   
+}
+.pic1 {
+   
+    background-image: url('images/wedding-02.jpg');
+    min-height:350px;
+    display: inline;
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.pic2 {
+    background-image: url('images/friends-ielts-speaking.jpg');
+    min-height:350px;
+    display: inline;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+.pic3 {
+    background-image: url('images/family.jpg');
+    min-height:350px;
+    display: inline;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pic4 {
+    background-image: url('images/tuscany.jpeg');
+    position:absolute;
+    clip:rect(0px,60px,200px,0px);
+    min-height:350px;
+    display: inline;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pic5 {
+    background-image: url('images/6222809-Cavoli-beach-Elba-island-Tuscany-Italy--Stock-Photo.jpg');
+    position:absolute;
+    clip:rect(0px,60px,200px,0px);
+    min-height:350px;
+    display: inline;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size:20px;
+}
+h2{
+    align-content:center;
+}
